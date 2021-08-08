@@ -20,7 +20,7 @@
         <!-- 高德定位服务 -->
         <service android:name="com.amap.api.location.APSService"></service>
         <!-- 高德key -->
-        <meta-data android:name="com.amap.api.v2.apikey" android:value="2f9958875b807ddc44ef5c92451807aa">
+        <meta-data android:name="com.amap.api.v2.apikey" android:value="*****">
         </meta-data>
 
         <!-- 百度定位服务 -->
@@ -31,7 +31,7 @@
         <!--  百度定位key-->
         <meta-data
             android:name="com.baidu.lbsapi.API_KEY"
-            android:value="A6qfShoUFy4XrUH4mlZGWRkGPGOvXgqj" >
+            android:value="*******" >
         </meta-data>
 
 
